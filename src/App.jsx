@@ -123,7 +123,7 @@ function App() {
     <div className="min-h-screen bg-blue-100 p-4">
       <div className="max-w-md mx-auto bg-white rounded-xl shadow-md overflow-hidden">
         <div className="p-4 bg-blue-500 text-white">
-          <h1 className="text-2xl font-bold text-center">Money Splitter - V1</h1>
+          <h1 className="text-2xl font-bold text-center">Money Splitter</h1>
         </div>
 
         {/* Navigation */}
